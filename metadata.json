@@ -1,0 +1,7 @@
+{
+  "name": "Write/Speak",
+  "description": "A professional AI-powered IELTS simulation app for Writing and Speaking exams with comprehensive feedback and scoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
